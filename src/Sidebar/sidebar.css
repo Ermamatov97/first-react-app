@@ -1,0 +1,76 @@
+.sidebar-con {
+    width: 240px;
+    border-right: 1px solid #E7E7E7;
+    height: 1000px;
+    padding: 32px 0 40px 40px;
+}
+
+.log-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 87px;
+}
+
+.logo {
+    width: 26px;
+    width: 26px;
+    margin-right: 11px;
+}
+
+.logo-text {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #304858;
+}
+
+.menu {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3629B7;
+    margin-bottom: 20px;
+}
+
+.race-schedul {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3629B7;
+    margin: 110px 0 40px;
+}
+
+.user {
+    width: 185px;
+    height: 63px;
+    display: flex;
+    align-items: center;
+    background: #F9FAFF;
+    border-radius: 5px;
+    margin-top: 150px;
+    margin-left: -15px;
+    cursor: pointer;
+}
+
+.user-img {
+    margin: 0 10px 0 12px;
+}
+
+.user-name {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #591AED;
+}
+
+.user-icon {
+    margin-left: 58px;
+}
